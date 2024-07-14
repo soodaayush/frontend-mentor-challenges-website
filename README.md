@@ -14,6 +14,10 @@ Nothing too difficult about this website.
 
 Very basic Bootstrap layout with links to all of my Frontend Mentor Challenges.
 
+## Lessons Learned
+
+Nothing learned here.
+
 ## Links
 
 Website: https://challenges-wb.netlify.app/
