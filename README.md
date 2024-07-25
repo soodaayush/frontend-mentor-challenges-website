@@ -4,7 +4,7 @@
 
 ## Inspiration
 
-My challenges used to be all over the place, so I thought that making one central website for all of my challenges would be best.
+My challenges used to be at multiple places at once, so I thought that making one central website for all of my challenges would be best.
 
 ## Challenges
 
@@ -12,7 +12,7 @@ Nothing too difficult about this website.
 
 ## The Website
 
-Very basic Bootstrap layout with links to all of my Frontend Mentor Challenges.
+Very basic Bootstrap layout with links to all of my Frontend Mentor challenges.
 
 ## Lessons Learned
 
