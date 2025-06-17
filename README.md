@@ -4,20 +4,23 @@
 
 ## Inspiration
 
-My challenges used to be at multiple places at once, so I thought that making one central website for all of my challenges would be best.
+This is a simple hub that showcases all of my completed Frontend Mentor challenges. I created it to keep everything in one place instead of scattered across folders and repositories.
 
-## Challenges
+## Tech Stack
 
-Nothing too difficult about this website.
+- HTML/CSS
+- Bootstrap for layout and responsiveness
+- Deployed with Netlify
 
 ## The Website
 
-Very basic Bootstrap layout with links to all of my Frontend Mentor challenges.
+The site features a clean and minimal Bootstrap-based layout, with clickable cards linking to each of my individual challenge solutions. It’s straightforward and easy to navigate.
 
 ## Lessons Learned
 
-Nothing learned here.
+This was more of an organizational task than a technical one, so there weren’t many new concepts learned. That said, it was a good reminder that a little structure goes a long way in keeping projects manageable.
 
 ## Links
 
-Website: https://challenges-wb.netlify.app/
+- Website: https://challenges-wb.netlify.app/
+- Frontend Mentor Profile: https://www.frontendmentor.io/profile/soodaayush
